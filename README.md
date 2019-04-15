@@ -1,3 +1,3 @@
 # git-demo
 
-Add some info!
+Add some information!
